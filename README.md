@@ -1,4 +1,4 @@
-# Hi there , I am <a href="https://himandrisharma.tk">Himandri Sharma</a>!
+# Hi there, I am <a href="https://himandrisharma.tk">Himandri Sharma</a>!
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/43072879/153904222-04ae47c5-3297-4c5e-b8be-417e2480f53d.gif" width="400"/>
 A Software Engineer specializing in JavaScript technologies. Professional experience with the technologies listed in the <b>toolbox</b> below.
 <br/><br/>

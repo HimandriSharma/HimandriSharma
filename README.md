@@ -19,6 +19,3 @@ I create websites using ReactJS and NPM package using TypeScript!
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
 
-### &#x1f4c8; My GitHub Stats
-[![Himandri's GitHub stats](https://github-readme-stats.vercel.app/api?username=himandrisharma&hide=stars,issues&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himandrisharma&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
